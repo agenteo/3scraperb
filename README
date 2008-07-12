@@ -1,0 +1,17 @@
+## description
+A simple Ruby script to scrape the remaining data of your 3 mobile plan from my.three.com.au
+A lot of room for improvements! Feel free to change whatever you want. I might write a desktop app for this someday.
+
+
+## software requirements: 
+ruby, rubygems, mechanize
+
+## other requirements:
+you must have your 3 account credentials. If you don't have them already you can get them at my.three.com.au
+
+## tested on
+OSX 10.5, feedbacks are welcome. 
+
+## contact me
+via git or on teotti.com/contact
+
